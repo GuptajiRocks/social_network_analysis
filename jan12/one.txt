@@ -1,0 +1,10 @@
+SNA - Lab 1 - Tasks
+
+DIY
+
+
+Adjacency List
+Adjacency Matrix
+Clustering coefficient
+Degree
+Graph Density
