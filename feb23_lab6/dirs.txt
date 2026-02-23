@@ -1,0 +1,12 @@
+Lab 6
+Objective: Explore generative models and network properties
+
+Generate:
+1. Create artificial graphs
+2. Plot degree distribution (log log scale)
+3. Compute average shortest path and clustering coefficient
+
+
+Expected Output:
+1. Image of artificial graphs plotted with degree distribution
+2. Comparison table of metrics
