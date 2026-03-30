@@ -1,0 +1,77 @@
+(.venv) arihant-gupta@arihant-gupta-Vostro-3500:/media/arihant-gupta/GARIHANT/Bennett University/Sem 6/CSET347 - Social Network Analysis/Practical/mar30_lab8/ICMOD$ python3 src/main.py --name facebook --input  data/snap/facebook/facebook_combined.txt.gz --format snap --k 30 --R 100
+DONE ✅
+Dataset: facebook
+Nodes: 4039  Edges: 88234
+Communities: 18
+Modularity Q: 0.862994
+Time (sec): 7.175
+Partition saved: results/partitions/facebook_partition.csv
+Metrics appended: results/metrics.csv
+
+(.venv) arihant-gupta@arihant-gupta-Vostro-3500:/media/arihant-gupta/GARIHANT/Bennett University/Sem 6/CSET347 - Social Network Analysis/Practical/mar30_lab8/ICMOD$ python3 src/main.py \
+  --name amazon \
+  --input data/snap/amazon/com-amazon.ungraph.txt.gz \
+  --format snap \
+  --k 100 --R 15
+DONE ✅
+Dataset: amazon
+Nodes: 334863  Edges: 925872
+Communities: 234
+Modularity Q: 0.926175
+Time (sec): 95.304
+Partition saved: results/partitions/amazon_partition.csv
+Metrics appended: results/metrics.csv
+
+(.venv) arihant-gupta@arihant-gupta-Vostro-3500:/media/arihant-gupta/GARIHANT/Bennett University/Sem 6/CSET347 - Social Network Analysis/Practical/mar30_lab8/ICMOD$ python3 src/main.py \
+  --name terroristrel \
+  --input data/criminal/TerroristRel.edges \
+  --format csv \
+  --k 25 --R 150
+DONE ✅
+Dataset: terroristrel
+Nodes: 687  Edges: 6883
+Communities: 12
+Modularity Q: 0.808300
+Time (sec): 0.512
+Partition saved: results/partitions/terroristrel_partition.csv
+Metrics appended: results/metrics.csv
+
+(.venv) arihant-gupta@arihant-gupta-Vostro-3500:/media/arihant-gupta/GARIHANT/Bennett University/Sem 6/CSET347 - Social Network Analysis/Practical/mar30_lab8/ICMOD$ python3 src/main.py   --name dolphins   --input data/classic/dolphins.gml   --format gml   --k 10 --R 200
+DONE ✅
+Dataset: dolphins
+Nodes: 62  Edges: 159
+Communities: 5
+Modularity Q: 0.558675
+Time (sec): 0.032
+Partition saved: results/partitions/dolphins_partition.csv
+Metrics appended: results/metrics.csv
+
+(.venv) arihant-gupta@arihant-gupta-Vostro-3500:/media/arihant-gupta/GARIHANT/Bennett University/Sem 6/CSET347 - Social Network Analysis/Practical/mar30_lab8/ICMOD$ python3 src/main.py \
+  --name moreno_people \
+  --input data/criminal/moreno_people.edges \
+  --format snap \
+  --nodetype int \
+  --k 30 --R 150
+DONE ✅
+Dataset: moreno_people
+Nodes: 754  Edges: 2127
+Communities: 27
+Modularity Q: 0.878961
+Time (sec): 0.229
+Partition saved: results/partitions/moreno_people_partition.csv
+Metrics appended: results/metrics.csv
+
+(.venv) arihant-gupta@arihant-gupta-Vostro-3500:/media/arihant-gupta/GARIHANT/Bennett University/Sem 6/CSET347 - Social Network Analysis/Practical/mar30_lab8/ICMOD$ python3 src/main.py \
+  --name football \
+  --input data/classic/football.gml \
+  --format gml \
+  --k 20 --R 150
+DONE ✅
+Dataset: football
+Nodes: 115  Edges: 613
+Communities: 10
+Modularity Q: 0.735318
+Time (sec): 0.060
+Partition saved: results/partitions/football_partition.csv
+Metrics appended: results/metrics.csv
+
