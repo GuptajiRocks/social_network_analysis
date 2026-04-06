@@ -1,0 +1,71 @@
+===== RESULTS =====
+Dataset: apr6_lab10/hyperedges-contact-high-school.txt
+Communities found: 7
+Modularity: 0.6731
+Overlapping Modularity: 0.6731
+Extended Modularity: 0.8872
+Execution Time: 0.1159 seconds
+
+===== RESULTS =====
+Dataset: apr6_lab10/hyperedges-contact-primary-school.txt
+Communities found: 6
+Modularity: 0.5200
+Overlapping Modularity: 0.5200
+Extended Modularity: 0.7911
+Execution Time: 0.1099 seconds
+
+===== RESULTS =====
+Dataset: apr6_lab10/hyperedges-house-bills.txt
+Communities found: 3
+Modularity: 0.2680
+Overlapping Modularity: 0.2680
+Extended Modularity: 0.7732
+Execution Time: 37.7405 seconds
+
+===== RESULTS =====
+Dataset: apr6_lab10/hyperedges-house-committees.txt
+Communities found: 7
+Modularity: 0.3684
+Overlapping Modularity: 0.3684
+Extended Modularity: 0.4647
+Execution Time: 1.7850 seconds
+
+===== RESULTS =====
+Dataset: apr6_lab10/hyperedges-senate-bills.txt
+Communities found: 3
+Modularity: 0.2318
+Overlapping Modularity: 0.2318
+Extended Modularity: 0.7388
+Execution Time: 1.4932 seconds
+
+===== RESULTS =====
+Dataset: apr6_lab10/hyperedges-senate-committees.txt
+Communities found: 5
+Modularity: 0.2377
+Overlapping Modularity: 0.2377
+Extended Modularity: 0.5054
+Execution Time: 0.1336 seconds
+
+===== RESULTS =====
+Dataset: apr6_lab10/hyperedges-trivago-clicks.txt
+Communities found: 199
+Modularity: 0.9599
+Overlapping Modularity: 0.9599
+Extended Modularity: 0.9829
+Execution Time: 86.5783 seconds
+
+===== RESULTS =====
+Dataset: apr6_lab10/hyperedges-walmart-trips.txt
+Communities found: 705
+Modularity: 0.2833
+Overlapping Modularity: 0.2833
+Extended Modularity: 0.6591
+Execution Time: 125.0036 seconds
+
+===== RESULTS =====
+Dataset: apr6_lab10/linear_large_edges_1000_he.txt
+Communities found: 8
+Modularity: 0.2602
+Overlapping Modularity: 0.2602
+Extended Modularity: 0.5771
+Execution Time: 0.6086 seconds

@@ -1,0 +1,19 @@
+Dataset,Communities Found,Modularity,Overlapping Modularity,Extended Modularity,Execution Time (s),
+hyperedges-contact-high-school.txt,7,0.6731,0.6731,0.8872,0.1159,
+hyperedges-contact-primary-school.txt,6,0.52,0.52,0.7911,0.1099,
+hyperedges-house-bills.txt,3,0.268,0.268,0.7732,37.7405,
+hyperedges-house-committees.txt,7,0.3684,0.3684,0.4647,1.785,
+hyperedges-senate-bills.txt,3,0.2318,0.2318,0.7388,1.4932,
+hyperedges-senate-committees.txt,5,0.2377,0.2377,0.5054,0.1336,
+hyperedges-trivago-clicks.txt,199,0.9599,0.9599,0.9829,86.5783,
+hyperedges-walmart-trips.txt,705,0.2833,0.2833,0.6591,125.0036,
+linear_large_edges_1000_he.txt,8,0.2602,0.2602,0.5771,0.6086,
+,,,,,,
+,,,,,,
+Dataset,Nodes,Edges,Comms,Mod (Q),Ext Mod (EQ),Time (s)
+linear_large_edges_1000_he.txt,1000,1882,8,0.2694,0.0258,1.31
+hyperedges-senate-committees.txt,282,315,4,0.2365,0.0647,0.5
+hyperedges-house-committees.txt,1290,340,7,0.3467,0.1211,4.03
+hyperedges-senate-bills.txt,294,29157,4,0.2446,0.0148,30.28
+hyperedges-trivago-clicks.txt,172738,233202,162,0.9603,0.8081,1454.25
+hyperedges-walmart-trips.txt,88860,69906,687,0.3041,0.0903,305.12
