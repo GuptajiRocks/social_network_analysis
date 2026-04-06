@@ -1,0 +1,90 @@
+cal/apr6_lab10/two.py"
+
+==============================
+Dataset: apr6_lab10/hyperedges-contact-high-school.txt
+Communities Found: 7
+Standard Modularity: 0.6731
+Extended Modularity (Faculty): 0.5803
+Overlapping Modularity (Faculty): 0.3275
+Execution Time: 0.1063 seconds
+==============================
+
+
+==============================
+Dataset: apr6_lab10/hyperedges-contact-primary-school.txt
+Communities Found: 6
+Standard Modularity: 0.5200
+Extended Modularity (Faculty): 0.2821
+Overlapping Modularity (Faculty): 0.1842
+Execution Time: 0.1079 seconds
+==============================
+
+
+==============================
+Dataset: apr6_lab10/hyperedges-house-bills.txt
+Communities Found: 3
+Standard Modularity: 0.2680
+Extended Modularity (Faculty): 0.2097
+Overlapping Modularity (Faculty): 0.2113
+Execution Time: 34.8243 seconds
+==============================
+
+
+==============================
+Dataset: apr6_lab10/hyperedges-house-committees.txt
+Communities Found: 7
+Standard Modularity: 0.3668
+Extended Modularity (Faculty): 0.2809
+Overlapping Modularity (Faculty): 0.1806
+Execution Time: 1.7477 seconds
+==============================
+
+
+==============================
+Dataset: apr6_lab10/hyperedges-senate-bills.txt
+Communities Found: 4
+Standard Modularity: 0.2271
+Extended Modularity (Faculty): 0.1973
+Overlapping Modularity (Faculty): 0.1624
+Execution Time: 1.5325 seconds
+==============================
+
+
+==============================
+Dataset: apr6_lab10/hyperedges-senate-committees.txt
+Communities Found: 5
+Standard Modularity: 0.2399
+Extended Modularity (Faculty): 0.2140
+Overlapping Modularity (Faculty): 0.1758
+Execution Time: 0.1317 seconds
+==============================
+
+
+==============================
+Dataset: apr6_lab10/hyperedges-trivago-clicks.txt
+Communities Found: 196
+Standard Modularity: 0.9601
+Extended Modularity (Faculty): 0.9560
+Overlapping Modularity (Faculty): 0.4817
+Execution Time: 171.1325 seconds
+==============================
+
+
+==============================
+Dataset: apr6_lab10/hyperedges-walmart-trips.txt
+Communities Found: 680
+Standard Modularity: 0.2841
+Extended Modularity (Faculty): 0.2792
+Overlapping Modularity (Faculty): 0.1897
+Execution Time: 549.5804 seconds
+==============================
+
+
+==============================
+Dataset: apr6_lab10/linear_large_edges_1000_he.txt
+Communities Found: 8
+Standard Modularity: 0.2632
+Extended Modularity (Faculty): 0.2472
+Overlapping Modularity (Faculty): 0.1587
+Execution Time: 0.4304 seconds
+==============================
