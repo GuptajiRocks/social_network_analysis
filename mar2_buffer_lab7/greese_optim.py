@@ -240,6 +240,6 @@ def b(path, sep):
 # ─────────────────────────────────────────────
 
 if __name__ == "__main__":
-    path = "roadNet-CA.txt"
+    path = "mar2_buffer_lab7/roadNet-CA.txt"
     sep  = "\t"          # change to "\t" or "," if needed
     modularity, communities = b(path, sep)

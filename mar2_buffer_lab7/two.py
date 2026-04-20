@@ -44,7 +44,7 @@ def analyze_communities(G):
     print(f"Communities found: {len(communities_lp)}")
 
 # Execute
-path = "roadNet-CA.txt"
+path = "mar2_buffer_lab7/roadNet-CA.txt"
 G = load_snap_data(path)
 G = preprocess_graph(G, sample_size=100_000)  # Adjust sample size as needed
 analyze_communities(G)

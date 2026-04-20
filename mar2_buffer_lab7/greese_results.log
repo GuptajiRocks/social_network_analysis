@@ -1,0 +1,18 @@
+(.venv) arihant-gupta@arihant-gupta-Vostro-3500:/media/arihant-gupta/GARIHANT/Bennett University/Sem 6/CSET347 - Social Network Analysis/Practical$ "/media/arihant-gupta/GARIHANT/Bennett University/Sem 6/CSET347 - Social Network Analysis/Practical/.venv/bin/python" "/media/arihant-gupta/GARIHANT/Bennett University/Sem 6/CSET347 - Social Network Analysis/Practical/mar2_buffer_lab7/two.py"
+Loading dataset: mar2_buffer_lab7/roadNet-CA.txt...
+Nodes: 1965206, Edges: 2766607
+
+Extracting Largest Connected Component...
+LCC -> Nodes: 1957027, Edges: 2760388
+Sampling 100000 nodes via BFS...
+Sampled -> Nodes: 100000, Edges: 140389
+
+Running Louvain Algorithm...
+Louvain Modularity: 0.9795 | Time: 40.0s
+Communities found: 132
+
+Running Label Propagation Algorithm...
+Label Propagation Modularity: 0.5802 | Time: 4.1s
+Communities found: 28824
+
+

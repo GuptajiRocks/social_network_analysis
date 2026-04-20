@@ -28,6 +28,6 @@ def analyze_communities(G):
     print(f"Greedy Modularity: {mod_greedy:.4f}")
 
 # Execute
-path = "roadNet-CA.txt" 
+path = "mar2_buffer_lab7//roadNet-CA.txt" 
 G = load_snap_data(path)
 analyze_communities(G)
